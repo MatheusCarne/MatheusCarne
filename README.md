@@ -106,7 +106,7 @@
 <!-- CHESS_CHART_START -->
 ```
 ♟ Chess.com Rapid Rating - @Matheus_Carne
-Última atualização: 2026-02-15 12:31:09
+Última atualização: 2026-02-16 12:41:35
 Rating mínimo: 1030
 Rating máximo: 1030
 

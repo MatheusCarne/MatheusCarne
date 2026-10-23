@@ -18,10 +18,16 @@
 - 💼 Sou proativo e gosto de trabalhar em equipe;
 
 </details>
-
 ---
 
 <h3 align="center">🧠 Skills set</h3>
+ 
+  ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-FF6B6B?style=for-the-badge&logo=verilog&logoColor=white)
+  ![Tcl](https://img.shields.io/badge/Tcl-E4CC00?style=for-the-badge&logoColor=black)
+  ![VCS](https://img.shields.io/badge/Synopsys_VCS-0066CC?style=for-the-badge&logoColor=white)
+  ![Design Compiler](https://img.shields.io/badge/Design_Compiler-0066CC?style=for-the-badge&logoColor=white)
+  ![Formality](https://img.shields.io/badge/Formality-0066CC?style=for-the-badge&logoColor=white)
+  ![SAED32](https://img.shields.io/badge/SAED32_PDK-6A0DAD?style=for-the-badge&logoColor=white)
 
 <div align="center">
   <table>
@@ -46,9 +52,9 @@
         <img align="center" title="OpenCV" alt="Opencv" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg">
         <img align="center" title="C++" alt="C++" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
         <img align="center" title="Arduino" alt="Arduino" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg">
+        <img align="center" title="Linux" alt="Linux" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
       </td>
       <td align="center">
-        <img align="center" title="Linux" alt="Linux" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
         <img align="center" title="JavaScript" alt="JS" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <img align="center" title="React" alt="React" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
         <img align="center" title="Bootstrap" alt="Bs" height="40" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
@@ -71,6 +77,8 @@
     </tr>
   </table>
 </div>
+
+
 
 ---
 

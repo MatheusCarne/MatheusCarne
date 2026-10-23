@@ -1,4 +1,4 @@
-name: Update Spotify
+name: Update Music
 
 on:
   schedule:
@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: spotify
+  group: music
   cancel-in-progress: true
 
 jobs:
@@ -22,12 +22,11 @@ jobs:
         with:
           node-version: 20
 
-      - name: Atualizar README com o Spotify
+      - name: Atualizar README com o Last.fm
         run: node scripts/update-spotify.mjs
         env:
-          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
-          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
-          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+          LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
+          LASTFM_USER: ${{ secrets.LASTFM_USER }}
 
       - name: Commit se houve mudança
         run: |
@@ -38,5 +37,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "chore: atualiza músicas do Spotify"
+          git commit -m "chore: atualiza músicas do Last.fm"
           git push

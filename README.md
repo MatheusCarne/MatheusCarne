@@ -111,9 +111,7 @@ Rating máximo: 961
 
 🎧 Ouvidas recentemente
 <!-- SPOTIFY:START -->
-
-Aguardando a primeira atualização...
-
+_Nada tocado recentemente._
 <!-- SPOTIFY:END -->
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />

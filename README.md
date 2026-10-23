@@ -109,21 +109,11 @@
   </tr>
 </table>  
 
-
-
-<details>
-<summary>Minha atividade no GitHub</summary>
-<div align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/?username=matheuscarne&hide_border=true&theme=react" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscarne&layout=compact&langs_count=7&theme=react&border_radius=4&hide_border=true" />
-</div>
-</details>
-
-<div align="center">
-
-<table align="center">
-<tr>
-<td valign="top" align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusCarne/MatheusCarne/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusCarne/MatheusCarne/output/github-contribution-grid-snake.svg">
+  <img alt="Galaga Contribution Graph" src="https://raw.githubusercontent.com/MatheusCarne/MatheusCarne/output/github-contribution-grid-snake.svg">
+</picture>
 
 <h3 align="center">♟️ Meu Progresso no Chess.com</h3>
 

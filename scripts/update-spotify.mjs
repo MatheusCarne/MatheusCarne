@@ -1,16 +1,12 @@
-// Atualiza a seção "Ouvidas recentemente" do README com o Spotify.
+// Atualiza a seção "Ouvidas recentemente" do README com o Last.fm.
 // Requer Node 20+ (fetch nativo, sem dependências).
 
 import { readFileSync, writeFileSync } from "node:fs";
 
-const {
-  SPOTIFY_CLIENT_ID,
-  SPOTIFY_CLIENT_SECRET,
-  SPOTIFY_REFRESH_TOKEN,
-} = process.env;
+const { LASTFM_API_KEY, LASTFM_USER } = process.env;
 
-if (!SPOTIFY_CLIENT_ID || !SPOTIFY_CLIENT_SECRET || !SPOTIFY_REFRESH_TOKEN) {
-  console.error("Faltam secrets: SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET, SPOTIFY_REFRESH_TOKEN");
+if (!LASTFM_API_KEY || !LASTFM_USER) {
+  console.error("Faltam secrets: LASTFM_API_KEY, LASTFM_USER");
   process.exit(1);
 }
 
@@ -19,37 +15,36 @@ const START = "<!-- SPOTIFY:START -->";
 const END = "<!-- SPOTIFY:END -->";
 const LIMIT = 5; // quantas músicas mostrar
 
-async function getAccessToken() {
-  const basic = Buffer.from(`${SPOTIFY_CLIENT_ID}:${SPOTIFY_CLIENT_SECRET}`).toString("base64");
-  const res = await fetch("https://accounts.spotify.com/api/token", {
-    method: "POST",
-    headers: {
-      Authorization: `Basic ${basic}`,
-      "Content-Type": "application/x-www-form-urlencoded",
-    },
-    body: new URLSearchParams({
-      grant_type: "refresh_token",
-      refresh_token: SPOTIFY_REFRESH_TOKEN,
-    }),
-  });
-  if (!res.ok) throw new Error(`Erro ao renovar token: ${res.status} ${await res.text()}`);
-  return (await res.json()).access_token;
-}
+// O Last.fm devolve essa imagem quando o álbum não tem capa
+const PLACEHOLDER = "2a96cbd8b46e442fc41c2b86b821562f";
 
-async function getRecentTracks(token) {
-  const res = await fetch("https://api.spotify.com/v1/me/player/recently-played?limit=30", {
-    headers: { Authorization: `Bearer ${token}` },
-  });
-  if (!res.ok) throw new Error(`Erro ao buscar músicas: ${res.status} ${await res.text()}`);
-  const { items } = await res.json();
+async function getRecentTracks() {
+  const url = new URL("https://ws.audioscrobbler.com/2.0/");
+  url.search = new URLSearchParams({
+    method: "user.getrecenttracks",
+    user: LASTFM_USER,
+    api_key: LASTFM_API_KEY,
+    format: "json",
+    limit: "30",
+  }).toString();
+
+  const res = await fetch(url);
+  const data = await res.json();
+  if (!res.ok || data.error) {
+    throw new Error(`Erro do Last.fm: ${res.status} ${data.message ?? JSON.stringify(data)}`);
+  }
+
+  const raw = data.recenttracks?.track ?? [];
+  const list = Array.isArray(raw) ? raw : [raw];
 
   // Remove repetidas (mesma música tocada várias vezes) e limita
   const seen = new Set();
   const tracks = [];
-  for (const { track } of items) {
-    if (seen.has(track.id)) continue;
-    seen.add(track.id);
-    tracks.push(track);
+  for (const t of list) {
+    const key = `${t.artist["#text"]}::${t.name}`;
+    if (seen.has(key)) continue;
+    seen.add(key);
+    tracks.push(t);
     if (tracks.length === LIMIT) break;
   }
   return tracks;
@@ -61,17 +56,21 @@ function render(tracks) {
   if (tracks.length === 0) return "_Nada tocado recentemente._";
 
   const rows = tracks.map((t) => {
-    const cover = t.album.images.at(-1)?.url ?? "";
+    const img = t.image?.find((i) => i.size === "medium")?.["#text"] ?? "";
+    const cover =
+      img && !img.includes(PLACEHOLDER)
+        ? `<img src="${img}" width="40" height="40" alt="">`
+        : "🎵";
+    const nowPlaying = t["@attr"]?.nowplaying === "true" ? "▶️ " : "";
     const name = esc(t.name);
-    const artists = esc(t.artists.map((a) => a.name).join(", "));
-    return `| <img src="${cover}" width="40" height="40" alt=""> | [${name}](${t.external_urls.spotify}) | ${artists} |`;
+    const artist = esc(t.artist["#text"]);
+    return `| ${cover} | ${nowPlaying}[${name}](${t.url}) | ${artist} |`;
   });
 
   return ["| | Música | Artista |", "|---|---|---|", ...rows].join("\n");
 }
 
-const token = await getAccessToken();
-const tracks = await getRecentTracks(token);
+const tracks = await getRecentTracks();
 const block = `${START}\n${render(tracks)}\n${END}`;
 
 const readme = readFileSync(README, "utf8");

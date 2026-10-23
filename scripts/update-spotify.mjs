@@ -52,26 +52,37 @@ async function getRecentTracks() {
 
 const esc = (s) => s.replace(/\|/g, "\\|");
 
-function render(tracks) {
+async function imageOk(url) {
+  try {
+    const res = await fetch(url, { method: "HEAD" });
+    return res.ok;
+  } catch {
+    return false;
+  }
+}
+
+async function render(tracks) {
   if (tracks.length === 0) return "_Nada tocado recentemente._";
 
-  const rows = tracks.map((t) => {
-    const img = t.image?.find((i) => i.size === "medium")?.["#text"] ?? "";
-    const cover =
-      img && !img.includes(PLACEHOLDER)
+  const rows = await Promise.all(
+    tracks.map(async (t) => {
+      const img = t.image?.find((i) => i.size === "medium")?.["#text"] ?? "";
+      const hasCover = img && !img.includes(PLACEHOLDER) && (await imageOk(img));
+      const cover = hasCover
         ? `<img src="${img}" width="40" height="40" alt="">`
         : "🎵";
-    const nowPlaying = t["@attr"]?.nowplaying === "true" ? "▶️ " : "";
-    const name = esc(t.name);
-    const artist = esc(t.artist["#text"]);
-    return `| ${cover} | ${nowPlaying}[${name}](${t.url}) | ${artist} |`;
-  });
+      const nowPlaying = t["@attr"]?.nowplaying === "true" ? "▶️ " : "";
+      const name = esc(t.name);
+      const artist = esc(t.artist["#text"]);
+      return `| ${cover} | ${nowPlaying}[${name}](${t.url}) | ${artist} |`;
+    })
+  );
 
   return ["| | Música | Artista |", "|---|---|---|", ...rows].join("\n");
 }
 
 const tracks = await getRecentTracks();
-const block = `${START}\n${render(tracks)}\n${END}`;
+const block = `${START}\n${await render(tracks)}\n${END}`;
 
 const readme = readFileSync(README, "utf8");
 const pattern = new RegExp(`${START}[\\s\\S]*?${END}`);

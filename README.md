@@ -16,15 +16,6 @@
 </details>
 
 <h3 align="center">🧠 Skills set</h3>
- 
-<p align="center">
-  <img src="https://img.shields.io/badge/SystemVerilog-FF6B6B?style=for-the-badge&logo=verilog&logoColor=white" alt="SystemVerilog">
-  <img src="https://img.shields.io/badge/Tcl-E4CC00?style=for-the-badge&logoColor=black" alt="Tcl">
-  <img src="https://img.shields.io/badge/Synopsys_VCS-0066CC?style=for-the-badge&logoColor=white" alt="Synopsys VCS">
-  <img src="https://img.shields.io/badge/Design_Compiler-0066CC?style=for-the-badge&logoColor=white" alt="Design Compiler">
-  <img src="https://img.shields.io/badge/Formality-0066CC?style=for-the-badge&logoColor=white" alt="Formality">
-  <img src="https://img.shields.io/badge/SAED32_PDK-6A0DAD?style=for-the-badge&logoColor=white" alt="SAED32 PDK">
-</p>
 
 <div align="center">
   <table>
@@ -74,7 +65,19 @@
     </tr>
   </table>
 </div>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/SystemVerilog-FF6B6B?style=for-the-badge&logo=verilog&logoColor=white" alt="SystemVerilog">
+  <img src="https://img.shields.io/badge/Tcl-E4CC00?style=for-the-badge&logoColor=black" alt="Tcl">
+  <img src="https://img.shields.io/badge/Synopsys_VCS-0066CC?style=for-the-badge&logoColor=white" alt="Synopsys VCS">
+  <img src="https://img.shields.io/badge/Design_Compiler-0066CC?style=for-the-badge&logoColor=white" alt="Design Compiler">
+  <img src="https://img.shields.io/badge/Formality-0066CC?style=for-the-badge&logoColor=white" alt="Formality">
+  <img src="https://img.shields.io/badge/SAED32_PDK-6A0DAD?style=for-the-badge&logoColor=white" alt="SAED32 PDK">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="SAED32 PDK">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="SAED32 PDK">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="SAED32 PDK">
+ </p>
 
 
 ---

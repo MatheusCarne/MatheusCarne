@@ -2,9 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=&center=true&vCenter=true&width=700&lines=<Matheus+Carneiro/>;Engenharia+de+Computa%C3%A7%C3%A3o+%7C+IFPB;Aprendendo+Recursivamente)](https://git.io/typing-svg)
 </div>
-
-### Sou um estudante de programação que ama tecnologia!
-
 <details>
 <summary>Sobre mim</summary>
 
@@ -17,16 +14,17 @@
 - 💼 Sou proativo e gosto de trabalhar em equipe;
 
 </details>
----
 
 <h3 align="center">🧠 Skills set</h3>
  
-  ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-FF6B6B?style=for-the-badge&logo=verilog&logoColor=white)
-  ![Tcl](https://img.shields.io/badge/Tcl-E4CC00?style=for-the-badge&logoColor=black)
-  ![VCS](https://img.shields.io/badge/Synopsys_VCS-0066CC?style=for-the-badge&logoColor=white)
-  ![Design Compiler](https://img.shields.io/badge/Design_Compiler-0066CC?style=for-the-badge&logoColor=white)
-  ![Formality](https://img.shields.io/badge/Formality-0066CC?style=for-the-badge&logoColor=white)
-  ![SAED32](https://img.shields.io/badge/SAED32_PDK-6A0DAD?style=for-the-badge&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/SystemVerilog-FF6B6B?style=for-the-badge&logo=verilog&logoColor=white" alt="SystemVerilog">
+  <img src="https://img.shields.io/badge/Tcl-E4CC00?style=for-the-badge&logoColor=black" alt="Tcl">
+  <img src="https://img.shields.io/badge/Synopsys_VCS-0066CC?style=for-the-badge&logoColor=white" alt="Synopsys VCS">
+  <img src="https://img.shields.io/badge/Design_Compiler-0066CC?style=for-the-badge&logoColor=white" alt="Design Compiler">
+  <img src="https://img.shields.io/badge/Formality-0066CC?style=for-the-badge&logoColor=white" alt="Formality">
+  <img src="https://img.shields.io/badge/SAED32_PDK-6A0DAD?style=for-the-badge&logoColor=white" alt="SAED32 PDK">
+</p>
 
 <div align="center">
   <table>
@@ -109,11 +107,7 @@
   </tr>
 </table>  
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusCarne/MatheusCarne/output/galaga.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusCarne/MatheusCarne/output/galaga.svg">
-  <img alt="Galaga Contribution Graph" src="https://raw.githubusercontent.com/MatheusCarne/MatheusCarne/output/galaga.svg">
-</picture>
+
 
 <h3 align="center">♟️ Meu Progresso no Chess.com</h3>
 
@@ -152,9 +146,6 @@ Rating máximo: 961
 </table>
 
 </div>
-
-
-
 <h3 align="center">💬 Meus contatos</h3>
 
 <p align="center">
@@ -165,4 +156,11 @@ Rating máximo: 961
 
 <p align="center">📧 <a href="mailto:matheus.cunha@academico.ifpb.edu.br">matheus.cunha@academico.ifpb.edu.br</a></p>
 
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusCarne/MatheusCarne/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusCarne/MatheusCarne/output/galaga-contribution-graph.svg">
+  <img alt="Galaga Contribution Graph" src="https://raw.githubusercontent.com/MatheusCarne/MatheusCarne/output/galaga-contribution-graph.svg">
+</picture>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />

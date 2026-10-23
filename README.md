@@ -74,11 +74,34 @@
 
 ---
 
+
 <h3 align="center">🚀 Projetos em destaque</h3>
 
-- [**ciexpert acelerador aes spi**](https://github.com/MatheusCarne/ciexpert-acelerador-aes-spi): Acelerador AES com interface SPI e baixo consumo
-- [**vending machine**](https://github.com/MatheusCarne/vending_machine): O controlador gerencia uma vending machine
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔐 Acelerador AES com interface SPI</h4>
+      <p>Acelerador de criptografia AES com interface SPI e foco em baixo consumo.</p>
+      <p>
+        <img alt="SystemVerilog" src="https://img.shields.io/badge/SystemVerilog-1f6feb?style=flat-square">
+        <img alt="AES" src="https://img.shields.io/badge/AES-555555?style=flat-square">
+        <img alt="SPI" src="https://img.shields.io/badge/SPI-555555?style=flat-square">
+        <img alt="Baixo consumo" src="https://img.shields.io/badge/Baixo_consumo-2ea043?style=flat-square">
+      </p>
+      <p><a href="https://github.com/MatheusCarne/NOME-DO-REPO-AES-SPI">Ver repositório →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🥤 Vending machine</h4>
+      <p>Controlador que gerencia o funcionamento de uma vending machine.</p>
+      <p>
+        <img alt="SystemVerilog" src="https://img.shields.io/badge/SystemVerilog-1f6feb?style=flat-square">
+        <img alt="Controlador" src="https://img.shields.io/badge/Controlador-555555?style=flat-square">
+      </p>
+      <p><a href="https://github.com/MatheusCarne/NOME-DO-REPO-VENDING">Ver repositório →</a></p>
+    </td>
+  </tr>
+</table>  
+
 
 
 <details>
@@ -88,8 +111,6 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscarne&layout=compact&langs_count=7&theme=react&border_radius=4&hide_border=true" />
 </div>
 </details>
-
----
 
 <h3 align="center">♟️ Meu Progresso no Chess.com</h3>
 
@@ -103,7 +124,7 @@ Rating máximo: 961
   961.00 ┤ ┼───────────────────
 ```
 <!-- CHESS_CHART_END -->
-
+---
 <h3 align="center">🎧 Ouvidas recentemente</h3>
 
 <div align="center">

@@ -110,9 +110,9 @@
 </table>  
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusCarne/MatheusCarne/output/github-contribution-grid-snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusCarne/MatheusCarne/output/github-contribution-grid-snake.svg">
-  <img alt="Galaga Contribution Graph" src="https://raw.githubusercontent.com/MatheusCarne/MatheusCarne/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusCarne/MatheusCarne/output/galaga.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusCarne/MatheusCarne/output/galaga.svg">
+  <img alt="Galaga Contribution Graph" src="https://raw.githubusercontent.com/MatheusCarne/MatheusCarne/output/galaga.svg">
 </picture>
 
 <h3 align="center">♟️ Meu Progresso no Chess.com</h3>

@@ -1,7 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=%3CMatheus+Carneiro/%3E&font=Fira+Code&size=40&height=70&width=600&center=true)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=&center=true&vCenter=true&width=700&lines=<Matheus+Carneiro/>;Engenharia+de+Computa%C3%A7%C3%A3o+%7C+IFPB;Aprendendo+Recursivamente)](https://git.io/typing-svg)
 </div>
 
 ### Sou um estudante de programação que ama tecnologia!

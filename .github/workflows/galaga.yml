@@ -1,15 +1,15 @@
 name: Generate Galaga Contribution Graph
 
 on:
-  # Executa automaticamente todo dia à meia-noite
   schedule:
+    # Executa diariamente à meia-noite
     - cron: "0 0 * * *"
-  
-  # Permite rodar manualmente na aba Actions quando quiser testar
   workflow_dispatch:
 
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 10
     
@@ -18,8 +18,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          # Define o jogo como Galaga
-          game: galaga
+          games: 'galaga'
           
       - name: Push Galaga SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

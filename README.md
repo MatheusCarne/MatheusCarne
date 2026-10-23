@@ -112,6 +112,12 @@
 </div>
 </details>
 
+<div align="center">
+
+<table align="center">
+<tr>
+<td valign="top" align="center">
+
 <h3 align="center">♟️ Meu Progresso no Chess.com</h3>
 
 <!-- CHESS_CHART_START -->
@@ -124,7 +130,10 @@ Rating máximo: 961
   961.00 ┤ ┼───────────────────
 ```
 <!-- CHESS_CHART_END -->
----
+
+</td>
+<td valign="top" align="center">
+
 <h3 align="center">🎧 Ouvidas recentemente</h3>
 
 <div align="center">
@@ -141,7 +150,13 @@ Rating máximo: 961
 
 </div>
 
----
+</td>
+</tr>
+</table>
+
+</div>
+
+
 
 <h3 align="center">💬 Meus contatos</h3>
 

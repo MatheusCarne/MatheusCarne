@@ -111,11 +111,11 @@ Rating máximo: 961
 <!-- SPOTIFY:START -->
 | | Música | Artista |
 |---|---|---|
-| 🎵 | ▶️ [Shine On](https://www.last.fm/music/Vinyl+Theatre/_/Shine+On) | Vinyl Theatre |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/2cb0874663fa48a5b7c20902d6b13c78.png" width="40" height="40" alt=""> | [Club Foot](https://www.last.fm/music/Kasabian/_/Club+Foot) | Kasabian |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/40ef30d54a3781f9ffea08b9de2f266c.jpg" width="40" height="40" alt=""> | [Love Me Again](https://www.last.fm/music/John+Newman/_/Love+Me+Again) | John Newman |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/2e506399182947002824619342259475.jpg" width="40" height="40" alt=""> | [Sua amiga deu](https://www.last.fm/music/MC+Levin/_/Sua+amiga+deu) | MC Levin |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/845b2e8d8c36254e18a2aea7e58bc353.jpg" width="40" height="40" alt=""> | [Tipo Insta do Buzeira](https://www.last.fm/music/Jhow/_/Tipo+Insta+do+Buzeira) | Jhow |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/425cdd27b3aaba6a8f0b14e9dc5b8a2e.jpg" width="40" height="40" alt=""> | [Just so You Know](https://www.last.fm/music/HOLY+OYSTERS/_/Just+so+You+Know) | HOLY OYSTERS |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/26b9032fb9d6db216ae2f5ee8109f576.jpg" width="40" height="40" alt=""> | [When the Day Comes](https://www.last.fm/music/Nico+&+Vinz/_/When+the+Day+Comes) | Nico & Vinz |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/a6365bb20e5b9fcd1390ed709594823b.jpg" width="40" height="40" alt=""> | [Not My Problem](https://www.last.fm/music/Laila!/_/Not+My+Problem) | Laila! |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/f54c299984f743b719d6120c9a4b18d7.jpg" width="40" height="40" alt=""> | [Ou La La La (All Eyes on Us)](https://www.last.fm/music/Nvdes/_/Ou+La+La+La+(All+Eyes+on+Us)) | Nvdes |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/ce89a8fda4a049fe88cc4a568db5b8a4.jpg" width="40" height="40" alt=""> | [Psycho Killer](https://www.last.fm/music/Talking+Heads/_/Psycho+Killer) | Talking Heads |
 <!-- SPOTIFY:END -->
 
 </div>

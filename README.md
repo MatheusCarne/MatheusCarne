@@ -74,11 +74,6 @@
 
 ---
 
-
-PROJETOS EM DESTAQUE
-Quando tiver 2 ou 3 repositórios para mostrar, apague as marcas de comentário
-(a linha de abertura e a de fechamento) e preencha os dados.
-
 <h3 align="center">🚀 Projetos em destaque</h3>
 
 - [**ciexpert acelerador aes spi**](https://github.com/MatheusCarne/ciexpert-acelerador-aes-spi): Acelerador AES com interface SPI e baixo consumo

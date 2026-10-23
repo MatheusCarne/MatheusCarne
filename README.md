@@ -111,7 +111,13 @@ Rating máximo: 961
 
 🎧 Ouvidas recentemente
 <!-- SPOTIFY:START -->
-_Nada tocado recentemente._
+| | Música | Artista |
+|---|---|---|
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/2cb0874663fa48a5b7c20902d6b13c78.png" width="40" height="40" alt=""> | ▶️ [Club Foot](https://www.last.fm/music/Kasabian/_/Club+Foot) | Kasabian |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/40ef30d54a3781f9ffea08b9de2f266c.jpg" width="40" height="40" alt=""> | [Love Me Again](https://www.last.fm/music/John+Newman/_/Love+Me+Again) | John Newman |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/2e506399182947002824619342259475.jpg" width="40" height="40" alt=""> | [Sua amiga deu](https://www.last.fm/music/MC+Levin/_/Sua+amiga+deu) | MC Levin |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/845b2e8d8c36254e18a2aea7e58bc353.jpg" width="40" height="40" alt=""> | [Tipo Insta do Buzeira](https://www.last.fm/music/Jhow/_/Tipo+Insta+do+Buzeira) | Jhow |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/4d18a86d5b1dd1e87e9d7cfc03f87baf.jpg" width="40" height="40" alt=""> | [TOMANO KATUKADA](https://www.last.fm/music/shonci/_/TOMANO+KATUKADA) | shonci |
 <!-- SPOTIFY:END -->
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />

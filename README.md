@@ -90,7 +90,7 @@
 Acelerador de criptografia AES com interface SPI e foco em baixo consumo.
 
 `SystemVerilog` `AES` `SPI` `Baixo consumo` 
-<p><a href="[https://github.com/MatheusCarne/ciexpert-acelerador-aes-spi">Ver repositório →</a></p>
+<p><a href="https://github.com/MatheusCarne/ciexpert-acelerador-aes-spi">Ver repositório →</a></p>
 </td>
     <td width="50%" valign="top" align="center">
 

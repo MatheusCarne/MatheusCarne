@@ -79,38 +79,28 @@
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="SAED32 PDK">
  </p>
 
-
 ---
 
-
 <h3 align="center">🚀 Projetos em destaque</h3>
-
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h4>🔐 Acelerador AES com interface SPI</h4>
-      <p>Acelerador de criptografia AES com interface SPI e foco em baixo consumo.</p>
-      <p>
-        <img alt="SystemVerilog" src="https://img.shields.io/badge/SystemVerilog-1f6feb?style=flat-square">
-        <img alt="AES" src="https://img.shields.io/badge/AES-555555?style=flat-square">
-        <img alt="SPI" src="https://img.shields.io/badge/SPI-555555?style=flat-square">
-        <img alt="Baixo consumo" src="https://img.shields.io/badge/Baixo_consumo-2ea043?style=flat-square">
-      </p>
-      <p><a href="https://github.com/MatheusCarne/NOME-DO-REPO-AES-SPI">Ver repositório →</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🥤 Vending machine</h4>
-      <p>Controlador que gerencia o funcionamento de uma vending machine.</p>
-      <p>
-        <img alt="SystemVerilog" src="https://img.shields.io/badge/SystemVerilog-1f6feb?style=flat-square">
-        <img alt="Controlador" src="https://img.shields.io/badge/Controlador-555555?style=flat-square">
-      </p>
-      <p><a href="https://github.com/MatheusCarne/NOME-DO-REPO-VENDING">Ver repositório →</a></p>
-    </td>
-  </tr>
-</table>  
+    <td width="50%" valign="top" align="center">
 
+### 🔐 Acelerador AES com interface SPI
+Acelerador de criptografia AES com interface SPI e foco em baixo consumo.
 
+`SystemVerilog` `AES` `SPI` `Baixo consumo` 
+<p><a href="[https://github.com/MatheusCarne/ciexpert-acelerador-aes-spi">Ver repositório →</a></p>
+</td>
+    <td width="50%" valign="top" align="center">
+
+### 🥤 Vending machine
+Controlador que gerencia o funcionamento de uma vending machine.
+
+`SystemVerilog` `Controlador`
+<p><a href="https://github.com/MatheusCarne/vending_machine">Ver repositório →</a></p>
+
+</table>
 
 <h3 align="center">♟️ Meu Progresso no Chess.com</h3>
 
@@ -124,7 +114,7 @@ Rating máximo: 961
   961.00 ┤ ┼───────────────────
 ```
 <!-- CHESS_CHART_END -->
-
+---
 </td>
 <td valign="top" align="center">
 
@@ -149,6 +139,7 @@ Rating máximo: 961
 </table>
 
 </div>
+
 <h3 align="center">💬 Meus contatos</h3>
 
 <p align="center">
@@ -158,8 +149,6 @@ Rating máximo: 961
 </p>
 
 <p align="center">📧 <a href="mailto:matheus.cunha@academico.ifpb.edu.br">matheus.cunha@academico.ifpb.edu.br</a></p>
-
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusCarne/MatheusCarne/output/galaga-contribution-graph-dark.svg">

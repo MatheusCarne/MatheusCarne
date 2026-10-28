@@ -125,11 +125,11 @@ Rating máximo: 961
 <!-- SPOTIFY:START -->
 | | Música | Artista |
 |---|---|---|
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/425cdd27b3aaba6a8f0b14e9dc5b8a2e.jpg" width="40" height="40" alt=""> | [Just so You Know](https://www.last.fm/music/HOLY+OYSTERS/_/Just+so+You+Know) | HOLY OYSTERS |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/26b9032fb9d6db216ae2f5ee8109f576.jpg" width="40" height="40" alt=""> | [When the Day Comes](https://www.last.fm/music/Nico+&+Vinz/_/When+the+Day+Comes) | Nico & Vinz |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/a6365bb20e5b9fcd1390ed709594823b.jpg" width="40" height="40" alt=""> | [Not My Problem](https://www.last.fm/music/Laila!/_/Not+My+Problem) | Laila! |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/f54c299984f743b719d6120c9a4b18d7.jpg" width="40" height="40" alt=""> | [Ou La La La (All Eyes on Us)](https://www.last.fm/music/Nvdes/_/Ou+La+La+La+(All+Eyes+on+Us)) | Nvdes |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/ce89a8fda4a049fe88cc4a568db5b8a4.jpg" width="40" height="40" alt=""> | [Psycho Killer](https://www.last.fm/music/Talking+Heads/_/Psycho+Killer) | Talking Heads |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/620e5488c22a1bb2af8b11d331817795.jpg" width="40" height="40" alt=""> | ▶️ [UMA Vez e Tchau](https://www.last.fm/music/Mc+LcKaiique/_/UMA+Vez+e+Tchau) | Mc LcKaiique |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/a91a8d180ba6a2172d91a8da77b04e09.jpg" width="40" height="40" alt=""> | [Charlie Kirky Funk](https://www.last.fm/music/Shremn/_/Charlie+Kirky+Funk) | Shremn |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/0315a744236d84325d0217b07b69d5da.jpg" width="40" height="40" alt=""> | [Meu Cotidiano](https://www.last.fm/music/Dj+TG+Da+INESTAN/_/Meu+Cotidiano) | Dj TG Da INESTAN |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/d4ef558526b79351a70a12c280ef4e08.jpg" width="40" height="40" alt=""> | [Catucada Profunda](https://www.last.fm/music/Mc+Ig%C3%A3o/_/Catucada+Profunda) | Mc Igão |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/a469b48606e651ee5c38ee2e78ce308c.jpg" width="40" height="40" alt=""> | [É Só Botada](https://www.last.fm/music/MC+Levin/_/%C3%89+S%C3%B3+Botada) | MC Levin |
 <!-- SPOTIFY:END -->
 
 </div>

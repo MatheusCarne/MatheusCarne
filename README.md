@@ -126,10 +126,10 @@ Rating máximo: 961
 | | Música | Artista |
 |---|---|---|
 | 🎵 | [Vem Flexionando a Xota](https://www.last.fm/music/Kevin+do+Recife/_/Vem+Flexionando+a+Xota) | Kevin do Recife |
-| 🎵 | [Mais Novo, Eu Quero Putaria, Cansei do 150](https://www.last.fm/music/MC+ROSE+DA+TRETA/_/Mais+Novo,+Eu+Quero+Putaria,+Cansei+do+150) | MC ROSE DA TRETA |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/e65e264e0f3f4edaa9f8ee1e650b3b9e.png" width="40" height="40" alt=""> | [Mais Novo, Eu Quero Putaria, Cansei do 150](https://www.last.fm/music/MC+ROSE+DA+TRETA/_/Mais+Novo,+Eu+Quero+Putaria,+Cansei+do+150) | MC ROSE DA TRETA |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/955320a637ecb6d407ddc62d4a0a78e9.jpg" width="40" height="40" alt=""> | [Trajado de Glock Ela Joga na Cara](https://www.last.fm/music/Tz+da+Coronel/_/Trajado+de+Glock+Ela+Joga+na+Cara) | Tz da Coronel |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/3b9e91f5b6aa155c8e5f9e0e56e396fc.jpg" width="40" height="40" alt=""> | [Base da Maldade](https://www.last.fm/music/DJ+LEO+LG/_/Base+da+Maldade) | DJ LEO LG |
-| 🎵 | [Charlie Kirky Funk](https://www.last.fm/music/Shremn/_/Charlie+Kirky+Funk) | Shremn |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/a91a8d180ba6a2172d91a8da77b04e09.jpg" width="40" height="40" alt=""> | [Charlie Kirky Funk](https://www.last.fm/music/Shremn/_/Charlie+Kirky+Funk) | Shremn |
 <!-- SPOTIFY:END -->
 
 </div>

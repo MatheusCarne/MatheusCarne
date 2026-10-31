@@ -125,11 +125,11 @@ Rating máximo: 961
 <!-- SPOTIFY:START -->
 | | Música | Artista |
 |---|---|---|
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/dc8d9b16bbc83c434884123bd97df72b.jpg" width="40" height="40" alt=""> | [New Me](https://www.last.fm/music/Ella+Eyre/_/New+Me) | Ella Eyre |
-| 🎵 | [Down The Line](https://www.last.fm/music/Remi+Wolf/_/Down+The+Line) | Remi Wolf |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/ee2fe2c7f55a38868a8b8cd8d434edd4.png" width="40" height="40" alt=""> | [Antidote (feat. Adekunle Gold)](https://www.last.fm/music/Nao/_/Antidote+(feat.+Adekunle+Gold)) | Nao |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/3de571b20af64aceb461e4b7643461ca.png" width="40" height="40" alt=""> | [Fly or Die](https://www.last.fm/music/Rock+Mafia/_/Fly+or+Die) | Rock Mafia |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/7f561982320dde8532fd2918b52f21db.jpg" width="40" height="40" alt=""> | [Backyard Boy](https://www.last.fm/music/Claire+Rosinkranz/_/Backyard+Boy) | Claire Rosinkranz |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/5bd9727c8d1349b7c9370874567b4c2f.png" width="40" height="40" alt=""> | [L.A.F](https://www.last.fm/music/Broods/_/L.A.F) | Broods |
+| 🎵 | [VELOCIDAD](https://www.last.fm/music/NOHEMY/_/VELOCIDAD) | NOHEMY |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/6053f2c9cc3ff071ec35e1089c90347c.jpg" width="40" height="40" alt=""> | [Fire](https://www.last.fm/music/Anna+of+the+North/_/Fire) | Anna of the North |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/c0d980228b5fe8287756e147005fa236.jpg" width="40" height="40" alt=""> | [Feeling Alive](https://www.last.fm/music/Jayda+G/_/Feeling+Alive) | Jayda G |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/395d456b1de6e38edd6642f173780171.jpg" width="40" height="40" alt=""> | [The Man](https://www.last.fm/music/The+Killers/_/The+Man) | The Killers |
 <!-- SPOTIFY:END -->
 
 </div>

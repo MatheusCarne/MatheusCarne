@@ -125,11 +125,11 @@ Rating máximo: 961
 <!-- SPOTIFY:START -->
 | | Música | Artista |
 |---|---|---|
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/96b484f0c2b6c30e18691e45e061ed60.jpg" width="40" height="40" alt=""> | [Mentira ou Verdade](https://www.last.fm/music/DJ+BIEL+DO+FURDUNCINHO/_/Mentira+ou+Verdade) | DJ BIEL DO FURDUNCINHO |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/7e3e1f737e27b3f2fe461abee2ade5db.jpg" width="40" height="40" alt=""> | [Agudo Mágico 3](https://www.last.fm/music/Mc+K.K/_/Agudo+M%C3%A1gico+3) | Mc K.K |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/d85b95758c3ca4d116126ea392581718.jpg" width="40" height="40" alt=""> | [Não Nasceu pra Namorar](https://www.last.fm/music/MC+Zaquin/_/N%C3%A3o+Nasceu+pra+Namorar) | MC Zaquin |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/90a52a19ca420f7fff696dd9cef5f6e9.jpg" width="40" height="40" alt=""> | [Fui Mlk](https://www.last.fm/music/Nilo/_/Fui+Mlk) | Nilo |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/ff8ff04abbf45d51ebb6fd263d24f41c.jpg" width="40" height="40" alt=""> | [Não Mandei Moscar](https://www.last.fm/music/Niack/_/N%C3%A3o+Mandei+Moscar) | Niack |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/25a8d984ee14c6eac5cad1cba84a0cc9.jpg" width="40" height="40" alt=""> | ▶️ [Faz a Pose, Olha o Flash](https://www.last.fm/music/DJ+FELIPE+%C3%9ANICO/_/Faz+a+Pose,+Olha+o+Flash) | DJ FELIPE ÚNICO |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/267ca9e2fa4e5f0621bce99eaed5a224.jpg" width="40" height="40" alt=""> | [QUANDO EU TOMO GIN DE 10](https://www.last.fm/music/Mc+Neguinho+do+Morro/_/QUANDO+EU+TOMO+GIN+DE+10) | Mc Neguinho do Morro |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/697698de093d5389be70454dfac626e5.jpg" width="40" height="40" alt=""> | [BALA](https://www.last.fm/music/shonci/_/BALA) | shonci |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/52eb4e3eb3614b120e6b64dbfce5da60.jpg" width="40" height="40" alt=""> | [No Pique BBB, Tu Ja Sabe o Macete](https://www.last.fm/music/DJ+BRUNINHO+PZS/_/No+Pique+BBB,+Tu+Ja+Sabe+o+Macete) | DJ BRUNINHO PZS |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/ac68f960a6311b1ba5f89b4e4a9ea874.jpg" width="40" height="40" alt=""> | [De Baixo Pra Cima](https://www.last.fm/music/DJ+CAIO+VIEIRA/_/De+Baixo+Pra+Cima) | DJ CAIO VIEIRA |
 <!-- SPOTIFY:END -->
 
 </div>

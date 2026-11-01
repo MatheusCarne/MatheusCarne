@@ -125,11 +125,11 @@ Rating máximo: 961
 <!-- SPOTIFY:START -->
 | | Música | Artista |
 |---|---|---|
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/5bd9727c8d1349b7c9370874567b4c2f.png" width="40" height="40" alt=""> | [L.A.F](https://www.last.fm/music/Broods/_/L.A.F) | Broods |
-| 🎵 | [VELOCIDAD](https://www.last.fm/music/NOHEMY/_/VELOCIDAD) | NOHEMY |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/6053f2c9cc3ff071ec35e1089c90347c.jpg" width="40" height="40" alt=""> | [Fire](https://www.last.fm/music/Anna+of+the+North/_/Fire) | Anna of the North |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/c0d980228b5fe8287756e147005fa236.jpg" width="40" height="40" alt=""> | [Feeling Alive](https://www.last.fm/music/Jayda+G/_/Feeling+Alive) | Jayda G |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/395d456b1de6e38edd6642f173780171.jpg" width="40" height="40" alt=""> | [The Man](https://www.last.fm/music/The+Killers/_/The+Man) | The Killers |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/10ad84702cf46b2819ec8961800ad3f3.png" width="40" height="40" alt=""> | ▶️ [Montagem Totally Strange](https://www.last.fm/music/mc+caja/_/Montagem+Totally+Strange) | mc caja |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/9ab9a430077f2eb2ea2324a1f8442949.jpg" width="40" height="40" alt=""> | [BREGA DO POP - Slowed](https://www.last.fm/music/DJ+Orbital/_/BREGA+DO+POP+-+Slowed) | DJ Orbital |
+| 🎵 | [Ele Terminou Comigo](https://www.last.fm/music/MC+Luana+SP/_/Ele+Terminou+Comigo) | MC Luana SP |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/d605b9f36932abfc9235c7186c8219f1.jpg" width="40" height="40" alt=""> | [Primeiro Beck Ela Me Mamou](https://www.last.fm/music/Mc+Kitinho/_/Primeiro+Beck+Ela+Me+Mamou) | Mc Kitinho |
+| 🎵 | [GRWM](https://www.last.fm/music/Mc+Iguinho+Ct/_/GRWM) | Mc Iguinho Ct |
 <!-- SPOTIFY:END -->
 
 </div>

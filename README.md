@@ -125,11 +125,11 @@ Rating máximo: 961
 <!-- SPOTIFY:START -->
 | | Música | Artista |
 |---|---|---|
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/08c83e765045b8340837d439ef42ce10.jpg" width="40" height="40" alt=""> | [Dente de Leite](https://www.last.fm/music/Mc+Nandinho/_/Dente+de+Leite) | Mc Nandinho |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/3b1668a3f2660a8269bc20ed8860b1de.jpg" width="40" height="40" alt=""> | [É Tuf Tuf Pof Pof Vapo Vapo o Dia Inteiro](https://www.last.fm/music/DJ+Olliver/_/%C3%89+Tuf+Tuf+Pof+Pof+Vapo+Vapo+o+Dia+Inteiro) | DJ Olliver |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/672fd322ccb1944522b3300e35e7d86e.jpg" width="40" height="40" alt=""> | [Vai Novinha Ah Ah Ah](https://www.last.fm/music/Dyamante+DJ/_/Vai+Novinha+Ah+Ah+Ah) | Dyamante DJ |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/a91a8d180ba6a2172d91a8da77b04e09.jpg" width="40" height="40" alt=""> | [Charlie Kirky Funk](https://www.last.fm/music/Shremn/_/Charlie+Kirky+Funk) | Shremn |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/4bd8cba87d28103719f690e20ce80c8a.jpg" width="40" height="40" alt=""> | [VAI DJ NPC SOCA COM VONTADE / MACHUCA MACHUCA](https://www.last.fm/music/DJ+NpcSize/_/VAI+DJ+NPC+SOCA+COM+VONTADE+%2F+MACHUCA+MACHUCA) | DJ NpcSize |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/96b484f0c2b6c30e18691e45e061ed60.jpg" width="40" height="40" alt=""> | [Mentira ou Verdade](https://www.last.fm/music/DJ+BIEL+DO+FURDUNCINHO/_/Mentira+ou+Verdade) | DJ BIEL DO FURDUNCINHO |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/7e3e1f737e27b3f2fe461abee2ade5db.jpg" width="40" height="40" alt=""> | [Agudo Mágico 3](https://www.last.fm/music/Mc+K.K/_/Agudo+M%C3%A1gico+3) | Mc K.K |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/d85b95758c3ca4d116126ea392581718.jpg" width="40" height="40" alt=""> | [Não Nasceu pra Namorar](https://www.last.fm/music/MC+Zaquin/_/N%C3%A3o+Nasceu+pra+Namorar) | MC Zaquin |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/90a52a19ca420f7fff696dd9cef5f6e9.jpg" width="40" height="40" alt=""> | [Fui Mlk](https://www.last.fm/music/Nilo/_/Fui+Mlk) | Nilo |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/ff8ff04abbf45d51ebb6fd263d24f41c.jpg" width="40" height="40" alt=""> | [Não Mandei Moscar](https://www.last.fm/music/Niack/_/N%C3%A3o+Mandei+Moscar) | Niack |
 <!-- SPOTIFY:END -->
 
 </div>

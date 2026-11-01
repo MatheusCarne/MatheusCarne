@@ -125,11 +125,11 @@ Rating máximo: 961
 <!-- SPOTIFY:START -->
 | | Música | Artista |
 |---|---|---|
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/10ad84702cf46b2819ec8961800ad3f3.png" width="40" height="40" alt=""> | ▶️ [Montagem Totally Strange](https://www.last.fm/music/mc+caja/_/Montagem+Totally+Strange) | mc caja |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/9ab9a430077f2eb2ea2324a1f8442949.jpg" width="40" height="40" alt=""> | [BREGA DO POP - Slowed](https://www.last.fm/music/DJ+Orbital/_/BREGA+DO+POP+-+Slowed) | DJ Orbital |
-| 🎵 | [Ele Terminou Comigo](https://www.last.fm/music/MC+Luana+SP/_/Ele+Terminou+Comigo) | MC Luana SP |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/d605b9f36932abfc9235c7186c8219f1.jpg" width="40" height="40" alt=""> | [Primeiro Beck Ela Me Mamou](https://www.last.fm/music/Mc+Kitinho/_/Primeiro+Beck+Ela+Me+Mamou) | Mc Kitinho |
-| 🎵 | [GRWM](https://www.last.fm/music/Mc+Iguinho+Ct/_/GRWM) | Mc Iguinho Ct |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/08c83e765045b8340837d439ef42ce10.jpg" width="40" height="40" alt=""> | [Dente de Leite](https://www.last.fm/music/Mc+Nandinho/_/Dente+de+Leite) | Mc Nandinho |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/3b1668a3f2660a8269bc20ed8860b1de.jpg" width="40" height="40" alt=""> | [É Tuf Tuf Pof Pof Vapo Vapo o Dia Inteiro](https://www.last.fm/music/DJ+Olliver/_/%C3%89+Tuf+Tuf+Pof+Pof+Vapo+Vapo+o+Dia+Inteiro) | DJ Olliver |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/672fd322ccb1944522b3300e35e7d86e.jpg" width="40" height="40" alt=""> | [Vai Novinha Ah Ah Ah](https://www.last.fm/music/Dyamante+DJ/_/Vai+Novinha+Ah+Ah+Ah) | Dyamante DJ |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/a91a8d180ba6a2172d91a8da77b04e09.jpg" width="40" height="40" alt=""> | [Charlie Kirky Funk](https://www.last.fm/music/Shremn/_/Charlie+Kirky+Funk) | Shremn |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/4bd8cba87d28103719f690e20ce80c8a.jpg" width="40" height="40" alt=""> | [VAI DJ NPC SOCA COM VONTADE / MACHUCA MACHUCA](https://www.last.fm/music/DJ+NpcSize/_/VAI+DJ+NPC+SOCA+COM+VONTADE+%2F+MACHUCA+MACHUCA) | DJ NpcSize |
 <!-- SPOTIFY:END -->
 
 </div>

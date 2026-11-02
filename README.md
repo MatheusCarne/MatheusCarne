@@ -125,11 +125,11 @@ Rating máximo: 961
 <!-- SPOTIFY:START -->
 | | Música | Artista |
 |---|---|---|
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/25a8d984ee14c6eac5cad1cba84a0cc9.jpg" width="40" height="40" alt=""> | ▶️ [Faz a Pose, Olha o Flash](https://www.last.fm/music/DJ+FELIPE+%C3%9ANICO/_/Faz+a+Pose,+Olha+o+Flash) | DJ FELIPE ÚNICO |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/267ca9e2fa4e5f0621bce99eaed5a224.jpg" width="40" height="40" alt=""> | [QUANDO EU TOMO GIN DE 10](https://www.last.fm/music/Mc+Neguinho+do+Morro/_/QUANDO+EU+TOMO+GIN+DE+10) | Mc Neguinho do Morro |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/697698de093d5389be70454dfac626e5.jpg" width="40" height="40" alt=""> | [BALA](https://www.last.fm/music/shonci/_/BALA) | shonci |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/52eb4e3eb3614b120e6b64dbfce5da60.jpg" width="40" height="40" alt=""> | [No Pique BBB, Tu Ja Sabe o Macete](https://www.last.fm/music/DJ+BRUNINHO+PZS/_/No+Pique+BBB,+Tu+Ja+Sabe+o+Macete) | DJ BRUNINHO PZS |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/ac68f960a6311b1ba5f89b4e4a9ea874.jpg" width="40" height="40" alt=""> | [De Baixo Pra Cima](https://www.last.fm/music/DJ+CAIO+VIEIRA/_/De+Baixo+Pra+Cima) | DJ CAIO VIEIRA |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/a09b48def00d04b1864f9aa221c35000.png" width="40" height="40" alt=""> | [Menu Degustativo](https://www.last.fm/music/Mc+Davi+Cpr/_/Menu+Degustativo) | Mc Davi Cpr |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/924f768c1e6e20f4a150bc01e3023419.jpg" width="40" height="40" alt=""> | [Eu Já Sofri por Amor Mas Não Sofro Mais (Tik Tok)](https://www.last.fm/music/Mc+Teuzin+PV/_/Eu+J%C3%A1+Sofri+por+Amor+Mas+N%C3%A3o+Sofro+Mais+(Tik+Tok)) | Mc Teuzin PV |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/c44663a193766192706fea0406694c68.jpg" width="40" height="40" alt=""> | [Puta É Só um Detalhe](https://www.last.fm/music/DJ+Douglinhas/_/Puta+%C3%89+S%C3%B3+um+Detalhe) | DJ Douglinhas |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/808b0f735e505eeb0e3f99dce49e709e.jpg" width="40" height="40" alt=""> | [Senta Olhando Pra Mim](https://www.last.fm/music/DJ+ARANA/_/Senta+Olhando+Pra+Mim) | DJ ARANA |
+| 🎵 | [Vem Flexionando a Xota](https://www.last.fm/music/Kevin+do+Recife/_/Vem+Flexionando+a+Xota) | Kevin do Recife |
 <!-- SPOTIFY:END -->
 
 </div>

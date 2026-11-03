@@ -126,9 +126,9 @@ Rating máximo: 961
 | | Música | Artista |
 |---|---|---|
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/a09b48def00d04b1864f9aa221c35000.png" width="40" height="40" alt=""> | [Menu Degustativo](https://www.last.fm/music/Mc+Davi+Cpr/_/Menu+Degustativo) | Mc Davi Cpr |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/924f768c1e6e20f4a150bc01e3023419.jpg" width="40" height="40" alt=""> | [Eu Já Sofri por Amor Mas Não Sofro Mais (Tik Tok)](https://www.last.fm/music/Mc+Teuzin+PV/_/Eu+J%C3%A1+Sofri+por+Amor+Mas+N%C3%A3o+Sofro+Mais+(Tik+Tok)) | Mc Teuzin PV |
+| 🎵 | [Eu Já Sofri por Amor Mas Não Sofro Mais (Tik Tok)](https://www.last.fm/music/Mc+Teuzin+PV/_/Eu+J%C3%A1+Sofri+por+Amor+Mas+N%C3%A3o+Sofro+Mais+(Tik+Tok)) | Mc Teuzin PV |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/c44663a193766192706fea0406694c68.jpg" width="40" height="40" alt=""> | [Puta É Só um Detalhe](https://www.last.fm/music/DJ+Douglinhas/_/Puta+%C3%89+S%C3%B3+um+Detalhe) | DJ Douglinhas |
-| 🎵 | [Senta Olhando Pra Mim](https://www.last.fm/music/DJ+ARANA/_/Senta+Olhando+Pra+Mim) | DJ ARANA |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/808b0f735e505eeb0e3f99dce49e709e.jpg" width="40" height="40" alt=""> | [Senta Olhando Pra Mim](https://www.last.fm/music/DJ+ARANA/_/Senta+Olhando+Pra+Mim) | DJ ARANA |
 | 🎵 | [Vem Flexionando a Xota](https://www.last.fm/music/Kevin+do+Recife/_/Vem+Flexionando+a+Xota) | Kevin do Recife |
 <!-- SPOTIFY:END -->
 

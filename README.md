@@ -125,11 +125,11 @@ Rating máximo: 961
 <!-- SPOTIFY:START -->
 | | Música | Artista |
 |---|---|---|
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/a09b48def00d04b1864f9aa221c35000.png" width="40" height="40" alt=""> | [Menu Degustativo](https://www.last.fm/music/Mc+Davi+Cpr/_/Menu+Degustativo) | Mc Davi Cpr |
-| 🎵 | [Eu Já Sofri por Amor Mas Não Sofro Mais (Tik Tok)](https://www.last.fm/music/Mc+Teuzin+PV/_/Eu+J%C3%A1+Sofri+por+Amor+Mas+N%C3%A3o+Sofro+Mais+(Tik+Tok)) | Mc Teuzin PV |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/c44663a193766192706fea0406694c68.jpg" width="40" height="40" alt=""> | [Puta É Só um Detalhe](https://www.last.fm/music/DJ+Douglinhas/_/Puta+%C3%89+S%C3%B3+um+Detalhe) | DJ Douglinhas |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/808b0f735e505eeb0e3f99dce49e709e.jpg" width="40" height="40" alt=""> | [Senta Olhando Pra Mim](https://www.last.fm/music/DJ+ARANA/_/Senta+Olhando+Pra+Mim) | DJ ARANA |
-| 🎵 | [Vem Flexionando a Xota](https://www.last.fm/music/Kevin+do+Recife/_/Vem+Flexionando+a+Xota) | Kevin do Recife |
+| 🎵 | [Ritmo Lilly Wood](https://www.last.fm/music/DJ+MTN/_/Ritmo+Lilly+Wood) | DJ MTN |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/02fdedcc86dcd0ffd80b5eb33778c09f.jpg" width="40" height="40" alt=""> | [Mega do Trava](https://www.last.fm/music/Mc+Pr/_/Mega+do+Trava) | Mc Pr |
+| 🎵 | [Na Raba Toma Tapão - Radio Edit](https://www.last.fm/music/Niack/_/Na+Raba+Toma+Tap%C3%A3o+-+Radio+Edit) | Niack |
+| 🎵 | [Peito Pp Cintura P](https://www.last.fm/music/DJ+LUCIANO+DE+CAXIAS/_/Peito+Pp+Cintura+P) | DJ LUCIANO DE CAXIAS |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/72b81932542d8ad66ce9ffc1dfc0501c.png" width="40" height="40" alt=""> | [Fumaça do ice](https://www.last.fm/music/Mc+Menor+Rf/_/Fuma%C3%A7a+do+ice) | Mc Menor Rf |
 <!-- SPOTIFY:END -->
 
 </div>

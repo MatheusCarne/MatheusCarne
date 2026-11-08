@@ -141,11 +141,11 @@ Rating máximo: 961
 <!-- SPOTIFY:START -->
 | | Música | Artista |
 |---|---|---|
-| 🎵 | [Ritmo Lilly Wood](https://www.last.fm/music/DJ+MTN/_/Ritmo+Lilly+Wood) | DJ MTN |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/02fdedcc86dcd0ffd80b5eb33778c09f.jpg" width="40" height="40" alt=""> | [Mega do Trava](https://www.last.fm/music/Mc+Pr/_/Mega+do+Trava) | Mc Pr |
-| 🎵 | [Na Raba Toma Tapão - Radio Edit](https://www.last.fm/music/Niack/_/Na+Raba+Toma+Tap%C3%A3o+-+Radio+Edit) | Niack |
-| 🎵 | [Peito Pp Cintura P](https://www.last.fm/music/DJ+LUCIANO+DE+CAXIAS/_/Peito+Pp+Cintura+P) | DJ LUCIANO DE CAXIAS |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/72b81932542d8ad66ce9ffc1dfc0501c.png" width="40" height="40" alt=""> | [Fumaça do ice](https://www.last.fm/music/Mc+Menor+Rf/_/Fuma%C3%A7a+do+ice) | Mc Menor Rf |
+| 🎵 | [Quero Ver Na Hora H](https://www.last.fm/music/Dj+Pedrinho+Mpc/_/Quero+Ver+Na+Hora+H) | Dj Pedrinho Mpc |
+| 🎵 | [Mtg Da Beretta](https://www.last.fm/music/DJ+DEIV%C3%83O/_/Mtg+Da+Beretta) | DJ DEIVÃO |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/026f4717f5c7b2c4ade74e55f611e070.jpg" width="40" height="40" alt=""> | [Vídeo Sensual](https://www.last.fm/music/DJ+Patrick+Original/_/V%C3%ADdeo+Sensual) | DJ Patrick Original |
+| 🎵 | [Sem Preocupação](https://www.last.fm/music/Mc+Vine7/_/Sem+Preocupa%C3%A7%C3%A3o) | Mc Vine7 |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/526548aea733af7a706c3dca639e6cc0.jpg" width="40" height="40" alt=""> | [QUE LOUCURA](https://www.last.fm/music/DJ+Exe/_/QUE+LOUCURA) | DJ Exe |
 <!-- SPOTIFY:END -->
 
 </div>

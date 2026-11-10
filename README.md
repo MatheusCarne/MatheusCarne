@@ -141,11 +141,11 @@ Rating máximo: 961
 <!-- SPOTIFY:START -->
 | | Música | Artista |
 |---|---|---|
-| 🎵 | [Quero Ver Na Hora H](https://www.last.fm/music/Dj+Pedrinho+Mpc/_/Quero+Ver+Na+Hora+H) | Dj Pedrinho Mpc |
-| 🎵 | [Mtg Da Beretta](https://www.last.fm/music/DJ+DEIV%C3%83O/_/Mtg+Da+Beretta) | DJ DEIVÃO |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/026f4717f5c7b2c4ade74e55f611e070.jpg" width="40" height="40" alt=""> | [Vídeo Sensual](https://www.last.fm/music/DJ+Patrick+Original/_/V%C3%ADdeo+Sensual) | DJ Patrick Original |
-| 🎵 | [Sem Preocupação](https://www.last.fm/music/Mc+Vine7/_/Sem+Preocupa%C3%A7%C3%A3o) | Mc Vine7 |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/526548aea733af7a706c3dca639e6cc0.jpg" width="40" height="40" alt=""> | [QUE LOUCURA](https://www.last.fm/music/DJ+Exe/_/QUE+LOUCURA) | DJ Exe |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/b06defa449863fea6a78434c268dff47.jpg" width="40" height="40" alt=""> | [Armistice](https://www.last.fm/music/Phoenix/_/Armistice) | Phoenix |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/a6365bb20e5b9fcd1390ed709594823b.jpg" width="40" height="40" alt=""> | [Not My Problem](https://www.last.fm/music/Laila!/_/Not+My+Problem) | Laila! |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/6fcc2409e1e539b93597ee2ac2d8ef78.jpg" width="40" height="40" alt=""> | [Done (Let's Get It)](https://www.last.fm/music/Yaeji/_/Done+(Let%27s+Get+It)) | Yaeji |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/15b1e1f93dcf4f2fcfdfaa3fd695fb6f.jpg" width="40" height="40" alt=""> | [Out Of The Blue](https://www.last.fm/music/Prides/_/Out+Of+The+Blue) | Prides |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/522bbd4c096dd6ef70addd41439041f9.jpg" width="40" height="40" alt=""> | [How Deep Is Your Love](https://www.last.fm/music/LP+Giobbi/_/How+Deep+Is+Your+Love) | LP Giobbi |
 <!-- SPOTIFY:END -->
 
 </div>

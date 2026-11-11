@@ -141,11 +141,11 @@ Rating máximo: 961
 <!-- SPOTIFY:START -->
 | | Música | Artista |
 |---|---|---|
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/2e70f620d794cd9e9182430e31a4c161.png" width="40" height="40" alt=""> | [Anytime, Always](https://www.last.fm/music/Wallows/_/Anytime,+Always) | Wallows |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/b06defa449863fea6a78434c268dff47.jpg" width="40" height="40" alt=""> | [Armistice](https://www.last.fm/music/Phoenix/_/Armistice) | Phoenix |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/a6365bb20e5b9fcd1390ed709594823b.jpg" width="40" height="40" alt=""> | [Not My Problem](https://www.last.fm/music/Laila!/_/Not+My+Problem) | Laila! |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/6fcc2409e1e539b93597ee2ac2d8ef78.jpg" width="40" height="40" alt=""> | [Done (Let's Get It)](https://www.last.fm/music/Yaeji/_/Done+(Let%27s+Get+It)) | Yaeji |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/15b1e1f93dcf4f2fcfdfaa3fd695fb6f.jpg" width="40" height="40" alt=""> | [Out Of The Blue](https://www.last.fm/music/Prides/_/Out+Of+The+Blue) | Prides |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/522bbd4c096dd6ef70addd41439041f9.jpg" width="40" height="40" alt=""> | [How Deep Is Your Love](https://www.last.fm/music/LP+Giobbi/_/How+Deep+Is+Your+Love) | LP Giobbi |
 <!-- SPOTIFY:END -->
 
 </div>

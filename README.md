@@ -141,11 +141,11 @@ Rating máximo: 961
 <!-- SPOTIFY:START -->
 | | Música | Artista |
 |---|---|---|
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/2e70f620d794cd9e9182430e31a4c161.png" width="40" height="40" alt=""> | [Anytime, Always](https://www.last.fm/music/Wallows/_/Anytime,+Always) | Wallows |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/b06defa449863fea6a78434c268dff47.jpg" width="40" height="40" alt=""> | [Armistice](https://www.last.fm/music/Phoenix/_/Armistice) | Phoenix |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/a6365bb20e5b9fcd1390ed709594823b.jpg" width="40" height="40" alt=""> | [Not My Problem](https://www.last.fm/music/Laila!/_/Not+My+Problem) | Laila! |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/6fcc2409e1e539b93597ee2ac2d8ef78.jpg" width="40" height="40" alt=""> | [Done (Let's Get It)](https://www.last.fm/music/Yaeji/_/Done+(Let%27s+Get+It)) | Yaeji |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/15b1e1f93dcf4f2fcfdfaa3fd695fb6f.jpg" width="40" height="40" alt=""> | [Out Of The Blue](https://www.last.fm/music/Prides/_/Out+Of+The+Blue) | Prides |
+| 🎵 | [Jontex (fumaça do ice)](https://www.last.fm/music/Mc+Menor+Rf/_/Jontex+(fuma%C3%A7a+do+ice)) | Mc Menor Rf |
+| 🎵 | [Que Se Foda é Tudo Puta](https://www.last.fm/music/Mc+MN/_/Que+Se+Foda+%C3%A9+Tudo+Puta) | Mc MN |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/382b4d0c46227e9ac0d8ee0634af9069.jpg" width="40" height="40" alt=""> | [Bandido problemático](https://www.last.fm/music/DJ+GUSTOMARES/_/Bandido+problem%C3%A1tico) | DJ GUSTOMARES |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/f16561acb208b15d066cc91d6b57303a.jpg" width="40" height="40" alt=""> | [Bola Uma Vela (Trava Chip)](https://www.last.fm/music/MC+Meno+K/_/Bola+Uma+Vela+(Trava+Chip)) | MC Meno K |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/1c93dda17b5d537c40f4f203e4be582b.jpg" width="40" height="40" alt=""> | [EU VOU COM CARINHO ELA QUER COM FORÇA](https://www.last.fm/music/Mc+Don+Juan/_/EU+VOU+COM+CARINHO+ELA+QUER+COM+FOR%C3%87A) | Mc Don Juan |
 <!-- SPOTIFY:END -->
 
 </div>

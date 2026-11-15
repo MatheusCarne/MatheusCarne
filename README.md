@@ -141,11 +141,11 @@ Rating máximo: 961
 <!-- SPOTIFY:START -->
 | | Música | Artista |
 |---|---|---|
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/acae16f2b86d070131e7ba6878cd35ae.jpg" width="40" height="40" alt=""> | [Don’t Chart (from GTAVI: The Album)](https://www.last.fm/music/Cardi+B/_/Don%E2%80%99t+Chart+(from+GTAVI:+The+Album)) | Cardi B |
-| 🎵 | [Maldita (Pijama Com Calcinha)](https://www.last.fm/music/MC+Jvila/_/Maldita+(Pijama+Com+Calcinha)) | MC Jvila |
-| 🎵 | [Jontex (fumaça do ice)](https://www.last.fm/music/Mc+Menor+Rf/_/Jontex+(fuma%C3%A7a+do+ice)) | Mc Menor Rf |
-| 🎵 | [Que Se Foda é Tudo Puta](https://www.last.fm/music/Mc+MN/_/Que+Se+Foda+%C3%A9+Tudo+Puta) | Mc MN |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/382b4d0c46227e9ac0d8ee0634af9069.jpg" width="40" height="40" alt=""> | [Bandido problemático](https://www.last.fm/music/DJ+GUSTOMARES/_/Bandido+problem%C3%A1tico) | DJ GUSTOMARES |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/3b159d537a2a93dd94a2e77a6c5632db.jpg" width="40" height="40" alt=""> | [Give It All](https://www.last.fm/music/BigXthaPlug/_/Give+It+All) | BigXthaPlug |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/1660d2cd91de3015537c77e1cd066062.jpg" width="40" height="40" alt=""> | [BbY WOW](https://www.last.fm/music/KAROL+G/_/BbY+WOW) | KAROL G |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/d022bb18a56b3ff7b36ce1c6a9addae7.jpg" width="40" height="40" alt=""> | [Blood In Your Eyes (from GTAVI: The Album)](https://www.last.fm/music/Tove+Lo/_/Blood+In+Your+Eyes+(from+GTAVI:+The+Album)) | Tove Lo |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/681c79635be06cf5742dff95493b6dcd.jpg" width="40" height="40" alt=""> | [Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]](https://www.last.fm/music/Justice/_/Flower+In+A+Hurricane+(feat.+Tame+Impala,+SZA,+King+Gizzard+&+the+Lizard+Wizard)+%5BFrom+GTAVI:+Original+Score%5D) | Justice |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/91ab2b9c441343a9a047935701de38bc.png" width="40" height="40" alt=""> | [Devil Woman - 2001 Remaster](https://www.last.fm/music/Cliff+Richard/_/Devil+Woman+-+2001+Remaster) | Cliff Richard |
 <!-- SPOTIFY:END -->
 
 </div>

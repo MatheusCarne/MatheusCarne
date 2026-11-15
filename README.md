@@ -141,11 +141,11 @@ Rating máximo: 961
 <!-- SPOTIFY:START -->
 | | Música | Artista |
 |---|---|---|
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/acae16f2b86d070131e7ba6878cd35ae.jpg" width="40" height="40" alt=""> | [Don’t Chart (from GTAVI: The Album)](https://www.last.fm/music/Cardi+B/_/Don%E2%80%99t+Chart+(from+GTAVI:+The+Album)) | Cardi B |
+| 🎵 | [Maldita (Pijama Com Calcinha)](https://www.last.fm/music/MC+Jvila/_/Maldita+(Pijama+Com+Calcinha)) | MC Jvila |
 | 🎵 | [Jontex (fumaça do ice)](https://www.last.fm/music/Mc+Menor+Rf/_/Jontex+(fuma%C3%A7a+do+ice)) | Mc Menor Rf |
 | 🎵 | [Que Se Foda é Tudo Puta](https://www.last.fm/music/Mc+MN/_/Que+Se+Foda+%C3%A9+Tudo+Puta) | Mc MN |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/382b4d0c46227e9ac0d8ee0634af9069.jpg" width="40" height="40" alt=""> | [Bandido problemático](https://www.last.fm/music/DJ+GUSTOMARES/_/Bandido+problem%C3%A1tico) | DJ GUSTOMARES |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/f16561acb208b15d066cc91d6b57303a.jpg" width="40" height="40" alt=""> | [Bola Uma Vela (Trava Chip)](https://www.last.fm/music/MC+Meno+K/_/Bola+Uma+Vela+(Trava+Chip)) | MC Meno K |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/1c93dda17b5d537c40f4f203e4be582b.jpg" width="40" height="40" alt=""> | [EU VOU COM CARINHO ELA QUER COM FORÇA](https://www.last.fm/music/Mc+Don+Juan/_/EU+VOU+COM+CARINHO+ELA+QUER+COM+FOR%C3%87A) | Mc Don Juan |
 <!-- SPOTIFY:END -->
 
 </div>

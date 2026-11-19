@@ -141,11 +141,11 @@ Rating máximo: 961
 <!-- SPOTIFY:START -->
 | | Música | Artista |
 |---|---|---|
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/3b159d537a2a93dd94a2e77a6c5632db.jpg" width="40" height="40" alt=""> | [Give It All](https://www.last.fm/music/BigXthaPlug/_/Give+It+All) | BigXthaPlug |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/6724ba9823f25dda998f8a4dc9dbccb9.jpg" width="40" height="40" alt=""> | [RHYNO (from GTAVI: The Album)](https://www.last.fm/music/Travis+Scott/_/RHYNO+(from+GTAVI:+The+Album)) | Travis Scott |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/8f3191269c11225e7280bdd43c87f5d0.jpg" width="40" height="40" alt=""> | [Love Is A Long Road](https://www.last.fm/music/Tom+Petty/_/Love+Is+A+Long+Road) | Tom Petty |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/75f1a35ab52cb10d6fea195430addf42.jpg" width="40" height="40" alt=""> | [Sexy Magic (from GTAVI: The Album)](https://www.last.fm/music/Ca7riel+&+Paco+Amoroso/_/Sexy+Magic+(from+GTAVI:+The+Album)) | Ca7riel & Paco Amoroso |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/1660d2cd91de3015537c77e1cd066062.jpg" width="40" height="40" alt=""> | [BbY WOW](https://www.last.fm/music/KAROL+G/_/BbY+WOW) | KAROL G |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/d022bb18a56b3ff7b36ce1c6a9addae7.jpg" width="40" height="40" alt=""> | [Blood In Your Eyes (from GTAVI: The Album)](https://www.last.fm/music/Tove+Lo/_/Blood+In+Your+Eyes+(from+GTAVI:+The+Album)) | Tove Lo |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/681c79635be06cf5742dff95493b6dcd.jpg" width="40" height="40" alt=""> | [Flower In A Hurricane (feat. Tame Impala, SZA, King Gizzard & the Lizard Wizard) [From GTAVI: Original Score]](https://www.last.fm/music/Justice/_/Flower+In+A+Hurricane+(feat.+Tame+Impala,+SZA,+King+Gizzard+&+the+Lizard+Wizard)+%5BFrom+GTAVI:+Original+Score%5D) | Justice |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/91ab2b9c441343a9a047935701de38bc.png" width="40" height="40" alt=""> | [Devil Woman - 2001 Remaster](https://www.last.fm/music/Cliff+Richard/_/Devil+Woman+-+2001+Remaster) | Cliff Richard |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/f3668f68387d4336c3a797a66196f851.png" width="40" height="40" alt=""> | [Everybody Wants to Rule the World](https://www.last.fm/music/Tears+for+Fears/_/Everybody+Wants+to+Rule+the+World) | Tears for Fears |
 <!-- SPOTIFY:END -->
 
 </div>

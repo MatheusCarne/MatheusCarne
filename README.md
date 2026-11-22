@@ -143,7 +143,7 @@ Rating máximo: 961
 |---|---|---|
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/10fcdc86e4f6cdf235b43e713180f55c.jpg" width="40" height="40" alt=""> | [Let's Go 4](https://www.last.fm/music/DJ+GBR/_/Let%27s+Go+4) | DJ GBR |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/6724ba9823f25dda998f8a4dc9dbccb9.jpg" width="40" height="40" alt=""> | [RHYNO (from GTAVI: The Album)](https://www.last.fm/music/Travis+Scott/_/RHYNO+(from+GTAVI:+The+Album)) | Travis Scott |
-| 🎵 | [Love Is A Long Road](https://www.last.fm/music/Tom+Petty/_/Love+Is+A+Long+Road) | Tom Petty |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/8f3191269c11225e7280bdd43c87f5d0.jpg" width="40" height="40" alt=""> | [Love Is A Long Road](https://www.last.fm/music/Tom+Petty/_/Love+Is+A+Long+Road) | Tom Petty |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/75f1a35ab52cb10d6fea195430addf42.jpg" width="40" height="40" alt=""> | [Sexy Magic (from GTAVI: The Album)](https://www.last.fm/music/Ca7riel+&+Paco+Amoroso/_/Sexy+Magic+(from+GTAVI:+The+Album)) | Ca7riel & Paco Amoroso |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/1660d2cd91de3015537c77e1cd066062.jpg" width="40" height="40" alt=""> | [BbY WOW](https://www.last.fm/music/KAROL+G/_/BbY+WOW) | KAROL G |
 <!-- SPOTIFY:END -->

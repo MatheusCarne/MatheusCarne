@@ -141,11 +141,11 @@ Rating máximo: 961
 <!-- SPOTIFY:START -->
 | | Música | Artista |
 |---|---|---|
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/4ba6015d01d62983e7dab264d777fac3.png" width="40" height="40" alt=""> | [Vou Tacar na Peka das Bebê](https://www.last.fm/music/MC+Kauan+PV/_/Vou+Tacar+na+Peka+das+Beb%C3%AA) | MC Kauan PV |
-| 🎵 | [Botação](https://www.last.fm/music/cjnobeat/_/Bota%C3%A7%C3%A3o) | cjnobeat |
-| 🎵 | [Ritmo Lazer](https://www.last.fm/music/DJ+LKC+ORIGINAL/_/Ritmo+Lazer) | DJ LKC ORIGINAL |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/9ab9a430077f2eb2ea2324a1f8442949.jpg" width="40" height="40" alt=""> | [BREGA DO POP - Slowed](https://www.last.fm/music/DJ+Orbital/_/BREGA+DO+POP+-+Slowed) | DJ Orbital |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/da870f7f30ca8af90313a1dc9c8313ea.jpg" width="40" height="40" alt=""> | [Se Eu Engravidar a Culpa É Sua Não É Minha](https://www.last.fm/music/DJ+Gabriel+Do+Borel/_/Se+Eu+Engravidar+a+Culpa+%C3%89+Sua+N%C3%A3o+%C3%89+Minha) | DJ Gabriel Do Borel |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/0b8d0e110972caf82280b2dd1946b274.jpg" width="40" height="40" alt=""> | ▶️ [Ela É do Tipo](https://www.last.fm/music/MC+Kevin+O+Chris/_/Ela+%C3%89+do+Tipo) | MC Kevin O Chris |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/2fa5ea1eb614c1ad84efe19c0c2b81da.jpg" width="40" height="40" alt=""> | [Tropa da Parma, Hoje eu Brotei no Baile da Parô](https://www.last.fm/music/DJ+CIRILO+DE+CAXIAS/_/Tropa+da+Parma,+Hoje+eu+Brotei+no+Baile+da+Par%C3%B4) | DJ CIRILO DE CAXIAS |
+| 🎵 | [Faz de Chicote](https://www.last.fm/music/LYU/_/Faz+de+Chicote) | LYU |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/0befd13b6ebebba1ac64d8889da32fd7.jpg" width="40" height="40" alt=""> | [Reliquia do 2T](https://www.last.fm/music/DJ+Gu/_/Reliquia+do+2T) | DJ Gu |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/cce022e6f2633542db1ef27f032517bb.jpg" width="40" height="40" alt=""> | [Cuida do Pet](https://www.last.fm/music/Oldilla/_/Cuida+do+Pet) | Oldilla |
 <!-- SPOTIFY:END -->
 
 </div>

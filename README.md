@@ -141,11 +141,11 @@ Rating máximo: 961
 <!-- SPOTIFY:START -->
 | | Música | Artista |
 |---|---|---|
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/10fcdc86e4f6cdf235b43e713180f55c.jpg" width="40" height="40" alt=""> | [Let's Go 4](https://www.last.fm/music/DJ+GBR/_/Let%27s+Go+4) | DJ GBR |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/6724ba9823f25dda998f8a4dc9dbccb9.jpg" width="40" height="40" alt=""> | [RHYNO (from GTAVI: The Album)](https://www.last.fm/music/Travis+Scott/_/RHYNO+(from+GTAVI:+The+Album)) | Travis Scott |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/8f3191269c11225e7280bdd43c87f5d0.jpg" width="40" height="40" alt=""> | [Love Is A Long Road](https://www.last.fm/music/Tom+Petty/_/Love+Is+A+Long+Road) | Tom Petty |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/75f1a35ab52cb10d6fea195430addf42.jpg" width="40" height="40" alt=""> | [Sexy Magic (from GTAVI: The Album)](https://www.last.fm/music/Ca7riel+&+Paco+Amoroso/_/Sexy+Magic+(from+GTAVI:+The+Album)) | Ca7riel & Paco Amoroso |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/1660d2cd91de3015537c77e1cd066062.jpg" width="40" height="40" alt=""> | [BbY WOW](https://www.last.fm/music/KAROL+G/_/BbY+WOW) | KAROL G |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/4ba6015d01d62983e7dab264d777fac3.png" width="40" height="40" alt=""> | [Vou Tacar na Peka das Bebê](https://www.last.fm/music/MC+Kauan+PV/_/Vou+Tacar+na+Peka+das+Beb%C3%AA) | MC Kauan PV |
+| 🎵 | [Botação](https://www.last.fm/music/cjnobeat/_/Bota%C3%A7%C3%A3o) | cjnobeat |
+| 🎵 | [Ritmo Lazer](https://www.last.fm/music/DJ+LKC+ORIGINAL/_/Ritmo+Lazer) | DJ LKC ORIGINAL |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/9ab9a430077f2eb2ea2324a1f8442949.jpg" width="40" height="40" alt=""> | [BREGA DO POP - Slowed](https://www.last.fm/music/DJ+Orbital/_/BREGA+DO+POP+-+Slowed) | DJ Orbital |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/da870f7f30ca8af90313a1dc9c8313ea.jpg" width="40" height="40" alt=""> | [Se Eu Engravidar a Culpa É Sua Não É Minha](https://www.last.fm/music/DJ+Gabriel+Do+Borel/_/Se+Eu+Engravidar+a+Culpa+%C3%89+Sua+N%C3%A3o+%C3%89+Minha) | DJ Gabriel Do Borel |
 <!-- SPOTIFY:END -->
 
 </div>

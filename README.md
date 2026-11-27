@@ -141,11 +141,11 @@ Rating máximo: 864
 <!-- SPOTIFY:START -->
 | | Música | Artista |
 |---|---|---|
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/e4f8bd4df8aa10e453dba691c6fabb78.jpg" width="40" height="40" alt=""> | [Suzuki (from GTAVI: The Album)](https://www.last.fm/music/Fuerza+Regida/_/Suzuki+(from+GTAVI:+The+Album)) | Fuerza Regida |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/748f8a36b0f89051dee32cf1bdb019fc.jpg" width="40" height="40" alt=""> | [Canalla](https://www.last.fm/music/Romeo+Santos/_/Canalla) | Romeo Santos |
 | 🎵 | [Jontex (fumaça do ice)](https://www.last.fm/music/Mc+Menor+Rf/_/Jontex+(fuma%C3%A7a+do+ice)) | Mc Menor Rf |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/339f5f1c2ed89879e4995ccdcedc1801.jpg" width="40" height="40" alt=""> | [Amantes da Foda](https://www.last.fm/music/Mc+Rodrigo+do+CN/_/Amantes+da+Foda) | Mc Rodrigo do CN |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/b254586f69fa63370e6f22a18b8a18b4.jpg" width="40" height="40" alt=""> | [PUTARIA VS MELODIA](https://www.last.fm/music/DJVAVAT/_/PUTARIA+VS+MELODIA) | DJVAVAT |
-| 🎵 | [Vem Flexionando a Xota](https://www.last.fm/music/Kevin+do+Recife/_/Vem+Flexionando+a+Xota) | Kevin do Recife |
-| 🎵 | [FUMADAO](https://www.last.fm/music/Mc+Menor+Rf/_/FUMADAO) | Mc Menor Rf |
 <!-- SPOTIFY:END -->
 
 </div>

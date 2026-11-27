@@ -142,10 +142,10 @@ Rating máximo: 864
 | | Música | Artista |
 |---|---|---|
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/e4f8bd4df8aa10e453dba691c6fabb78.jpg" width="40" height="40" alt=""> | [Suzuki (from GTAVI: The Album)](https://www.last.fm/music/Fuerza+Regida/_/Suzuki+(from+GTAVI:+The+Album)) | Fuerza Regida |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/748f8a36b0f89051dee32cf1bdb019fc.jpg" width="40" height="40" alt=""> | [Canalla](https://www.last.fm/music/Romeo+Santos/_/Canalla) | Romeo Santos |
-| 🎵 | [Jontex (fumaça do ice)](https://www.last.fm/music/Mc+Menor+Rf/_/Jontex+(fuma%C3%A7a+do+ice)) | Mc Menor Rf |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/339f5f1c2ed89879e4995ccdcedc1801.jpg" width="40" height="40" alt=""> | [Amantes da Foda](https://www.last.fm/music/Mc+Rodrigo+do+CN/_/Amantes+da+Foda) | Mc Rodrigo do CN |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/b254586f69fa63370e6f22a18b8a18b4.jpg" width="40" height="40" alt=""> | [PUTARIA VS MELODIA](https://www.last.fm/music/DJVAVAT/_/PUTARIA+VS+MELODIA) | DJVAVAT |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/7d0982b56a5e4304eb6207d6688c917a.png" width="40" height="40" alt=""> | [EoO](https://www.last.fm/music/Bad+Bunny/_/EoO) | Bad Bunny |
+| 🎵 | [Desenfocao'](https://www.last.fm/music/Diego+Gz/_/Desenfocao%27) | Diego Gz |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/6032ee98e877476cc7c312ae6b56e5bc.jpg" width="40" height="40" alt=""> | [Nuestra Cancion](https://www.last.fm/music/Elvis+Crespo/_/Nuestra+Cancion) | Elvis Crespo |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/3b1e3d04cacc6a890a9095d299b2cab8.png" width="40" height="40" alt=""> | [CANDY](https://www.last.fm/music/ROSAL%C3%8DA/_/CANDY) | ROSALÍA |
 <!-- SPOTIFY:END -->
 
 </div>

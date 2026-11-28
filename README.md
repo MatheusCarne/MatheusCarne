@@ -141,11 +141,11 @@ Rating máximo: 807
 <!-- SPOTIFY:START -->
 | | Música | Artista |
 |---|---|---|
+| 🎵 | [Canalla](https://www.last.fm/music/Romeo+Santos/_/Canalla) | Romeo Santos |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/e4f8bd4df8aa10e453dba691c6fabb78.jpg" width="40" height="40" alt=""> | [Suzuki (from GTAVI: The Album)](https://www.last.fm/music/Fuerza+Regida/_/Suzuki+(from+GTAVI:+The+Album)) | Fuerza Regida |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/7d0982b56a5e4304eb6207d6688c917a.png" width="40" height="40" alt=""> | [EoO](https://www.last.fm/music/Bad+Bunny/_/EoO) | Bad Bunny |
 | 🎵 | [Desenfocao'](https://www.last.fm/music/Diego+Gz/_/Desenfocao%27) | Diego Gz |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/6032ee98e877476cc7c312ae6b56e5bc.jpg" width="40" height="40" alt=""> | [Nuestra Cancion](https://www.last.fm/music/Elvis+Crespo/_/Nuestra+Cancion) | Elvis Crespo |
-| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/3b1e3d04cacc6a890a9095d299b2cab8.png" width="40" height="40" alt=""> | [CANDY](https://www.last.fm/music/ROSAL%C3%8DA/_/CANDY) | ROSALÍA |
 <!-- SPOTIFY:END -->
 
 </div>

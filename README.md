@@ -141,7 +141,7 @@ Rating máximo: 807
 <!-- SPOTIFY:START -->
 | | Música | Artista |
 |---|---|---|
-| 🎵 | [Canalla](https://www.last.fm/music/Romeo+Santos/_/Canalla) | Romeo Santos |
+| <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/deb0d533e62335d14b4dbd27a0380a07.jpg" width="40" height="40" alt=""> | [Canalla](https://www.last.fm/music/Romeo+Santos/_/Canalla) | Romeo Santos |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/e4f8bd4df8aa10e453dba691c6fabb78.jpg" width="40" height="40" alt=""> | [Suzuki (from GTAVI: The Album)](https://www.last.fm/music/Fuerza+Regida/_/Suzuki+(from+GTAVI:+The+Album)) | Fuerza Regida |
 | <img src="https://lastfm-img.freetls.fastly.net/i/u/64s/7d0982b56a5e4304eb6207d6688c917a.png" width="40" height="40" alt=""> | [EoO](https://www.last.fm/music/Bad+Bunny/_/EoO) | Bad Bunny |
 | 🎵 | [Desenfocao'](https://www.last.fm/music/Diego+Gz/_/Desenfocao%27) | Diego Gz |
